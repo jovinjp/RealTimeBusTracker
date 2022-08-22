@@ -22,7 +22,7 @@ let map = new mapboxgl.Map({
     zoom: 14,
   });
   
-  var marker = new mapboxgl.Marker()
+  let marker = new mapboxgl.Marker({ color: "#82ABE2" })
     .setLngLat([-71.093729, 42.359244]) 
     .addTo(map);
   
