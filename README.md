@@ -1,6 +1,4 @@
- https://jovinjp.github.io/RealTimeBusTracker/
-
-# RealTimeBusTracker
+ # RealTimeBusTracker
 
 <h2>Description</h2>
 <p>Bus Tracking Animation from MBTA</p>
